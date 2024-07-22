@@ -261,7 +261,7 @@
 
 .contact {
     padding: 100px 10%;
-    background: #;
+    background: #031540;
     color: #333;
 }
 
@@ -296,11 +296,25 @@
 .contact-content .form-group textarea {
     padding: 10px;
     font-size: 16px;
-    border: 2px solid #ccc;
+    border: 2px solid #595959;
+    background-color: #dbdbdb;
     border-radius: 5px;
 }
 
 .contact-content .form-group textarea {
     resize: vertical;
     min-height: 100px;
+}
+
+
+.btne {
+    padding: 12px 35px;
+    background: #00abf0;
+    border-radius: 40px;
+    font-size: 17px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: .5s;
 }
